@@ -1,0 +1,10 @@
+title: 我的技术博客
+description: 分享 Linux、Proxmox、Ubuntu、服务器运维相关技术
+lang: zh-CN
+
+theme: minima
+
+author:
+  name: Admin
+
+show_excerpts: true
